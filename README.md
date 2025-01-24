@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Trito</h1>
 <h3 align="center">A Software engineering students based in Canada</h3>
 
-- 💞 I’m interested in a variety of fields going from web developpement to neurotechnology passing by game developpement
-- 🌱 I’m currently learning **Vulkan**
-- 🔭 I’m currently working on [a graphics engine](https://github.com/itsTrito/TEngine)
+- 💞 I’m interested in a variety of fields going from mobile developpement to neurotechnology passing by game developpement
 
 <!--
+
+- 🌱 I’m currently learning **Vulkan**
+- 🔭 I’m currently working on [a graphics engine](https://github.com/itsTrito/TEngine)
 
 - 👯 I’m looking to collaborate on [a](a)
 
